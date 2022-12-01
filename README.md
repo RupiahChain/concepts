@@ -3,7 +3,7 @@
 RupiahChain is an application for exchanging Cryptocurrencies to Paper Money or vice versa from Banknotes to Cryptocurrencies Anonymously. No KYC and no transaction limits.
 
 ## Features
-We have many features. We support many blockchain, many digital wallets and many banks for paper money payment methods. And yes we open 24 hours in a day and 7 days in a week
+We have many features. We support many blockchain, many digital wallets and many banks for paper money payment methods. All our transactions are automatic, And yes we open 24 hours in a day and 7 days in a week.
 
 **Blockchain Supported**
 - [ ] 5ire

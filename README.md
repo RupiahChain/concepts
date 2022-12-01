@@ -49,3 +49,6 @@ We have many features. We support many blockchain, many digital wallets and many
 
 **Transaction Status**
 ![Screenshot from 2022-12-01 21-39-19](https://user-images.githubusercontent.com/12779618/205080940-36f16ca3-fdb2-418a-8dab-7b31524d503d.png)
+
+## Contact
+This application is created and managed by fatkulnurk[at]gmail[dot]com or telegram @fatkulnur

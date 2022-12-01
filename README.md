@@ -1,4 +1,4 @@
-# RupiahChain.Com
+# RupiahChain
 
 RupiahChain is an application for exchanging Cryptocurrencies to Paper Money or vice versa from Banknotes to Cryptocurrencies Anonymously. No KYC and no transaction limits.
 

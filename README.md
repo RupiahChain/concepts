@@ -1,4 +1,4 @@
-# RupiahChain White Paper (
+# RupiahChain White Paper
 RupiahChain is an application for exchanging Cryptocurrencies to Paper Money or vice versa from Banknotes to Cryptocurrencies Anonymously. No KYC and no transaction limits.
 
 ## Problems
@@ -14,6 +14,17 @@ Paper Money --> RupiahChain --> Cryptocurrency
 ```
 
 We support multiple blockchains, multiple digital wallets, and multiple banks for fiat money payment methods. All our transactions are **instant & automatic**, and yes we are open 24 hours a day and 7 days a week.
+
+## Project & Defense Plans
+We believe this project will last a long time. As long as people value their privacy and cryptocurrencies are still in use. During that time the project will continue.
+
+**Roadmap**
+- [ ] 2022-12 - 2023-03 | Create Web Application & System
+- [ ] 2022-04 | Alpha Testing
+- [ ] 2022-05 | Beta Testing
+- [ ] 2022-06 | Release Version 1
+
+The time may not be right, backwards and forwards are influenced by many factors, especially third parties.
 
 ## Features
 We have many features.

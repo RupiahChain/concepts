@@ -1,11 +1,22 @@
-# RupiahChain
+# RupiahChain White Paper (
 RupiahChain is an application for exchanging Cryptocurrencies to Paper Money or vice versa from Banknotes to Cryptocurrencies Anonymously. No KYC and no transaction limits.
 
-## Problem
+## Problems
 Withdrawing and depositing money from cryptocurrencies to bank accounts or digital wallets and vice versa is very difficult. We have to make a withdrawal or deposit through the exchange exchange. Safe, even though many exchange sites are closed unilaterally and freeze customer funds. Even though it's safe, it's not anonymous, because we submit all of our data, starting from the name, date of birth, even the names of several exchanges asking for KYC identity cards and facial biometrics. We require anonymous withdrawals or deposits. We don't want my personal data, my identity card, my biometric data to be at stake for any uncertainty.
 
+## Solutions
+Here we create decentralized finance, where every individual can withdraw and deposit money from cryptocurrency to a bank or digital wallet, and vice versa. There is no handover of personal data such as favorite food, mother's name, date of birth, photo ID, or even biometric data.
+
+```
+Cryptocurrency --> RupiahChain --> Paper Money
+or
+Paper Money --> RupiahChain --> Cryptocurrency
+```
+
+We support multiple blockchains, multiple digital wallets, and multiple banks for fiat money payment methods. All our transactions are **instant & automatic**, and yes we are open 24 hours a day and 7 days a week.
+
 ## Features
-We have many features. We support many blockchain, many digital wallets and many banks for paper money payment methods. All our transactions are **instant & automatic**, And yes we open 24 hours in a day and 7 days in a week.
+We have many features.
 
 **Blockchain Supported**
 - [ ] 5ire
@@ -15,6 +26,7 @@ We have many features. We support many blockchain, many digital wallets and many
 
 
 **Paper Money Supported**
+Currently we only support Indonesia, but don't worry, more payment methods will be added.
 - [ ] Dana 
 - [ ] Gopay (Gojek)
 - [ ] Shoope Pay
@@ -30,6 +42,7 @@ We have many features. We support many blockchain, many digital wallets and many
 - [ ] Bank BRI
 - [ ] Bank Mandiri
 - [ ] Bank BNI
+- [ ] and more ...
 
 **Cryptocurrency Supported**
 - [ ] 5IRE
@@ -41,6 +54,8 @@ We have many features. We support many blockchain, many digital wallets and many
 - [ ] FIRO
 - [ ] XLM (Monero)
 - [ ] LTC (Litecoin)
+- [ ] and more ...
+
 
 ## User Interface
 **Homepage**

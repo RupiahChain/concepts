@@ -1,5 +1,5 @@
 # RupiahChain White Paper
-RupiahChain is an application for exchanging Cryptocurrencies to Paper Money or vice versa from Banknotes to Cryptocurrencies Anonymously. No KYC and no transaction limits.
+We want to return financial power to the people through a decentralized system. The application we made can exchange crypto for fiat currency anonymously and quickly. There is no KYC, identity upload or biometric data theft in the name of biometric verification.
 
 ## Problems
 Withdrawing and depositing money from cryptocurrencies to bank accounts or digital wallets and vice versa is very difficult. We have to make a withdrawal or deposit through the exchange exchange. Safe, even though many exchange sites are closed unilaterally and freeze customer funds. Even though it's safe, it's not anonymous, because we submit all of our data, starting from the name, date of birth, even the names of several exchanges asking for KYC identity cards and facial biometrics. We require anonymous withdrawals or deposits. We don't want my personal data, my identity card, my biometric data to be at stake for any uncertainty.
